@@ -1,0 +1,8 @@
+Script started on Tue May 10 20:10:32 2016
+[?1034hbash-3.2$ javac *.java
+bash-3.2$ java Register.[K
+Error: Could not find or load main class Register
+bash-3.2$ exit
+exit
+
+Script done on Tue May 10 20:10:53 2016
